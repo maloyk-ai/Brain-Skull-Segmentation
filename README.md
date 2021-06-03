@@ -6,13 +6,13 @@ Proposed implementation of Skull Stripping is based on Deep Neural Network(UNet)
 Dataset: NFBS Skull-Stripped Repository (http://preprocessed-connectomes-project.org/NFB_skullstripped/)
 "The Neurofeedback Skull-stripped (NFBS) repository is a database of 125 T1-weighted anatomical MRI scans that are manually skull-stripped. In addition to aiding in the processing and analysis of the NFB dataset, NFBS provides researchers with gold standard training and testing data for developing machine learning algorithms. "
 
-Prediction using 2D Convolution based UNet
+# Prediction using 2D Convolution based UNet
 
 <img width="872" alt="Brain-Segmentation Prediction" src="https://user-images.githubusercontent.com/84564226/119955285-8bcb1b00-bfbd-11eb-8c46-7818984a9707.png">
 
-Prediction using 3D Convolution based UNet
+# Prediction using 3D Convolution based UNet
 
-<img width="1235" alt="Screenshot 2021-06-03 at 6 08 01 PM" src="https://user-images.githubusercontent.com/84564226/120658137-cb54a400-c4a2-11eb-9dac-1d69cbc19267.png">
+<img width="872" alt="Screenshot 2021-06-03 at 6 08 01 PM" src="https://user-images.githubusercontent.com/84564226/120658137-cb54a400-c4a2-11eb-9dac-1d69cbc19267.png">
 
 
 
