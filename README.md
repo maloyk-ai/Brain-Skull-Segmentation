@@ -14,6 +14,8 @@ Dataset: NFBS Skull-Stripped Repository (http://preprocessed-connectomes-project
 
 <img width="872" alt="Screenshot 2021-06-03 at 6 08 01 PM" src="https://user-images.githubusercontent.com/84564226/120658137-cb54a400-c4a2-11eb-9dac-1d69cbc19267.png">
 
+Above implementations show UNet without architectural sophistication can demonstrate good accuracy withinin limitation of hardware resources.
+
 
 
 
