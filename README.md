@@ -1,7 +1,7 @@
-# Brain-Skull-Segmentation(Skull Stripping using UNet)
+# Brain-Skull-Segmentation(Skull Stripping) using UNet
 One of the most common MRI (Magnetic Resonance Imaging) use is a brain visualisation. Brain anatomy is highly complicated therefore it might be difficult to extract only these structures which have diagnostic value. In a consequence it is so necessary to develop and apply most efficient brain’s segmentation algorithms. One of the first steps in case of neurological MRI analysis is skull stripping. It involves removing extra-meningeal tissue from the head image, therefore it is essential to find the best method to determine the brain and skull boundaries.
 
-Proposed implementation of Skull Stripping is based on Deep Neural Network(UNet) and shjows decent accuracy. The accuracy and obcetive loss can be further improved by using different architectures of UNets. 
+Proposed implementation of Skull Stripping is based on Deep Neural Network(UNet with Residual Connevtions) and shows decent accuracy. The accuracy and obcetive loss can be further improved by using different architectures of UNets. 
 
 Dataset: NFBS Skull-Stripped Repository (http://preprocessed-connectomes-project.org/NFB_skullstripped/)
 "The Neurofeedback Skull-stripped (NFBS) repository is a database of 125 T1-weighted anatomical MRI scans that are manually skull-stripped. In addition to aiding in the processing and analysis of the NFB dataset, NFBS provides researchers with gold standard training and testing data for developing machine learning algorithms. "
